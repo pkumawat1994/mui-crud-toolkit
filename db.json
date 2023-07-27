@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "name": "vikas jadhav",
+      "email": "rahul@gmail",
+      "number": "9968547859",
+      "password": "123456A%6h"
+    },
+    {
+      "name": "asif",
+      "number": "9968547859",
+      "email": "a@gamil.com",
+      "password": "Abhipri94%",
+      "password_repeat": "Abhipri94%",
+      "id": 10
+    },
+    {
+      "name": "param ji ram",
+      "number": "9968547859",
+      "email": "param@gmail.com",
+      "password": "Abhipri94%",
+      "password_repeat": "Abhipri94%",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "name": "param shree",
+      "email": "shreeram@gmail.com",
+      "number": "9968547859",
+      "password": "Abhipri94%"
+    },
+    {
+      "id": 14,
+      "name": "vikas lakha",
+      "email": "lakha@gmail.com",
+      "number": 9968547859,
+      "password": "123456A%6h"
+    },
+    {
+      "name": "abhi",
+      "number": "9968547859",
+      "email": "abhi@gmail.com",
+      "password": "Abhipri94%",
+      "password_repeat": "Abhipri94%",
+      "id": 15
+    }
+  ]
+}
